@@ -30,7 +30,7 @@ export default class Header extends Component {
                     pageData.socialLinks && pageData.socialLinks.map(item =>{
                       return(
                               <li key={item.name}>
-                                <a href={item.url} target="_blank"><i className={item.className}></i></a>
+                                <a href={item.url} target="blank"><i className={item.className}></i></a>
                               </li>
                             )
                           }
