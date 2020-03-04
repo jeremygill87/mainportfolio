@@ -14,12 +14,12 @@ class App extends Component {
     return (
       <div className="App">
         <Header pageData={pageData}/>
+        <MainPage pageData={pageData}/>
+        <Resume pageData={pageData}/>
+        <Portfolio pageData={pageData}/>
+        <Testimonials pageData={pageData}/>
         <Contact pageData={pageData}/>
         <Footer pageData={pageData}/>
-        <MainPage pageData={pageData}/>
-        <Portfolio pageData={pageData}/>
-        <Resume pageData={pageData}/>
-        <Testimonials pageData={pageData}/>
       </div>
     );
   }
