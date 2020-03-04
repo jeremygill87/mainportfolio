@@ -1,9 +1,9 @@
 let pageData = {
     "imagebaseurl":"https://www.usnews.com/dims4/USNEWS/c861844/2147483647/thumbnail/640x420/quality/85/?url=http%3A%2F%2Fcom-usnews-beam-media.s3.amazonaws.com%2F16%2F7e%2Fdb70a6cd4611b0f82e3bd4bf0cd8%2F1-intro-getty.jpg",
     "name": "Jeremy Gill",
-    "role": "Full Stack Developer",
+    "role": "Full Stack Developer. ",
     "linkedinId":"https://www.linkedin.com/in/jeremy-gill-22116b96/",
-    "roleDescription": "I write awesome code, from front to back,",
+    "roleDescription": "I write awesome code, from front to back.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -51,38 +51,38 @@ let pageData = {
         "Achievements":"Received Cleveland's Excellence in Teaching Award in 2018"
       }
     ],
-    "skillsDescription":"Javascript and React",
+    "skillsDescription":"",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"reactjs"
       },
       {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Javascript"
       }
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"webapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Underthink.io",
+        "description":"web/mobile app",
+        "imgurl": "../images/underthinkv3.jpg"
       },
       {
-        "name":"project2",
-        "description":"webapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Baggage",
+        "description":"web/mobile/social app",
+        "imgurl":"../images/me.jpg"
       },
       {
-        "name":"project3",
-        "description":"webapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Factivism",
+        "description":"web/mobile app",  
+        "imgurl":"../images/me.jpg"
       },
       {
         "name":"project4",
-        "description":"webapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "description":"web/mobile app",
+        "imgurl":"../images/me.jpg"
       }
     ],
     "testimonials":[
