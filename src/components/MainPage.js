@@ -8,7 +8,7 @@ export default class About extends Component {
 
             <div className="three columns">
 
-               <img className="profile-pic"  src="../images/me.jpg" alt="me" />
+               <img className="profile-pic"  src={require('../images/me.jpg')} alt="me" />
 
             </div>
 
