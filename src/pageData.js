@@ -3,6 +3,7 @@ let pageData = {
     "name": "Jeremy Gill",
     "role": "Full Stack Developer. ",
     "linkedinId":"https://www.linkedin.com/in/jeremy-gill-22116b96/",
+    "contactemail":"jeremygill87@gmail.com",
     "roleDescription": "I write awesome code, from front to back.",
     "socialLinks":[
         {
