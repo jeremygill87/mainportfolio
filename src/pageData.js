@@ -68,21 +68,16 @@ let pageData = {
       {
         "name":"Underthink.io",
         "description":"web/mobile app",
-        "imgurl": "../images/underthinkv3.jpg"
+        "imgurl": "./images/underthinkv3.jpg"
       },
       {
         "name":"Baggage",
         "description":"web/mobile/social app",
-        "imgurl":"../images/me.jpg"
+        "imgurl":"./images/me.jpg"
       },
       {
         "name":"Factivism",
         "description":"web/mobile app",  
-        "imgurl":"../images/me.jpg"
-      },
-      {
-        "name":"project4",
-        "description":"web/mobile app",
         "imgurl":"../images/me.jpg"
       }
     ],
