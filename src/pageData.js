@@ -68,7 +68,7 @@ let pageData = {
       {
         "name":"Underthink.io",
         "description":"web/mobile app",
-        "imgurl": "./images/underthinkv3.jpg"
+        "imgurl": "../images/underthinkv3.png"
       },
       {
         "name":"Baggage",
@@ -89,6 +89,10 @@ let pageData = {
       {
         "description":"Taught me everything I know.  I couldn't have done any of this without him.",
         "name":"Elon Musk"
+      },
+      {
+        "description":"I was born in 1996.  I didn't truly begin living until 2019, when I met Jeremy Gill",
+        "name":"Sam Rodriguez"
       }
     ]
   }
